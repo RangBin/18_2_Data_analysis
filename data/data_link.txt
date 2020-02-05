@@ -1,0 +1,9 @@
+data links:
+
+
+- Human Activity Recognition Using Smartphones Data Set 
+https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+ (or https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones )
+
+- Simplified Human Activity Recognition w/Smartphone
+https://www.kaggle.com/mboaglio/simplifiedhuarus
